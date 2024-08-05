@@ -18,3 +18,5 @@ This repository contains a Power BI dashboard for analyzing Zomato's sales data.
 - Refresh the data to update the visualizations.
 - Explore the dashboard to gain insights into Zomato's sales performance.
 - Dashboard Preview
+
+![Dashboard Overview](https://github.com/ashuid1/Zomato_Sales_Analysis/blob/main/Screenshot%202024-07-16%20184029.png)
